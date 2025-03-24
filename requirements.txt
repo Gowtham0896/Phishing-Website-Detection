@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+scikit-learn
+matplotlib
+statsmodels
+scipy
+nltk
+Pillow
+beautifulsoup4
+networkx
+tensorflow
+six
+IPython
+streamlit
